@@ -13,6 +13,7 @@ public final class JoinMessage extends JavaPlugin {
     @Override
     public void onEnable() {
         this.load();
+        getServer().getPluginManager().registerEvents(new Events(),this);
     }
 
     @Override
