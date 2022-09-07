@@ -1,0 +1,6 @@
+name: JoinMessage
+version: '${project.version}'
+main: joinmessage.joinmessage.JoinMessage
+api-version: 1.19
+authors: [ SakakiAruka ]
+description: when a player join, send messages.
