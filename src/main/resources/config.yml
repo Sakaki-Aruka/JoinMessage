@@ -1,0 +1,11 @@
+# this file is a config file.
+
+message:
+  1: "Welcome this server !!"
+  2: "URL jump test line."
+    url: "https://www.google.com/"
+    copy: true
+  3: "Say hello to players.(Click here and say.)"
+    command: "/say hello"
+  4: "Say hello world.(Click and suggested a message.)"
+    suggest: "/say hello world"
